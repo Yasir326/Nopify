@@ -32,10 +32,10 @@ A dramatically fun web app that delivers creative rejections at the press of a b
 
 ```bash
 # Clone the repository
-git clone https://github.com/Yasir326/giggle-generator.git
+git clone https://github.com/Yasir326/Nopify.git
 
 # Navigate to project directory
-cd giggle-generator
+cd Nopify
 
 # Install dependencies
 npm install
