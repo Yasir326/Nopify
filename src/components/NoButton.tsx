@@ -46,9 +46,9 @@ const NoButton = ({ onPress, isLoading }: NoButtonProps) => {
         <span className="text-3xl">🤔</span>
       ) : (
         <>
-          <span className="text-5xl tracking-wider">GET A</span>
+          <span className="text-5xl tracking-wider">Yes or</span>
           <br />
-          <span className="text-7xl">NO!</span>
+          <span className="text-7xl">No!</span>
         </>
       )}
     </Button>
