@@ -47,8 +47,7 @@ const Index = () => {
           NOPIFY
           </h1>
           <p className="font-body text-muted-foreground text-lg md:text-xl max-w-md mx-auto">
-            Need a creative way to say no? We've got you covered. 
-            Press the button and receive a perfectly crafted rejection.
+            Press the button to see if I can fulfill your request
           </p>
         </header>
 

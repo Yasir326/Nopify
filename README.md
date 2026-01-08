@@ -1,6 +1,6 @@
 # 🚫 Nopify
 
-A dramatically fun web app that delivers creative rejections at the press of a button. Need to say "NO" but want to make it entertaining? We've got you covered.
+Need to say "NO" but want to make it entertaining? We've got you covered.
 
 ![Nopify](https://img.shields.io/badge/NO-As%20A%20Service-red?style=for-the-badge)
 
